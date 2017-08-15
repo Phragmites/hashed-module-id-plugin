@@ -1,0 +1,11 @@
+{
+  "name": "hashed-module-id-plugin",
+  "version": "1.0.1",
+  "description": "Help creating stable module id (compatible with Webpack 1)",
+  "main": "HashedModuleIdsPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gj",
+  "license": "ISC"
+}
